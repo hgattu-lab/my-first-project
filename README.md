@@ -3,7 +3,7 @@ sql
 
 select * 
 from customers
-where first_name like 'b%'
+where first_name like 'b%' , 99 AS points
 
 done with my job
 thank you
